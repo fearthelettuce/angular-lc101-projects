@@ -1,3 +1,5 @@
+https://gankrin.org/how-to-fix-error-digital-envelope-routinesunsupported-in-node-js-or-react/
+
 # Exercises
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
